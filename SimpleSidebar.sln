@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30021.99
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleSidebar", "SimpleSidebar\SimpleSidebar.csproj", "{45775110-21AE-4F72-9158-14AE905103F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45775110-21AE-4F72-9158-14AE905103F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45775110-21AE-4F72-9158-14AE905103F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45775110-21AE-4F72-9158-14AE905103F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45775110-21AE-4F72-9158-14AE905103F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FBBA4D4-DD79-4335-BCBF-560CF73D836B}
+	EndGlobalSection
+EndGlobal
